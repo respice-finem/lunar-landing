@@ -1,4 +1,4 @@
-# Project 2: Lunar Lander
+# Lunar Lander Experiments
 
 ## Pre-requisites
 1. Turn on Anaconda Prompt
